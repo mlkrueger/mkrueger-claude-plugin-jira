@@ -1,0 +1,5 @@
+{
+  "name": "jira",
+  "description": "Read-only Jira Cloud integration for querying issues, sprints, and team activity",
+  "version": "0.1.0"
+}
